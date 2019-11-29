@@ -72,7 +72,7 @@ __DATA__
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
 	<style type="text/css">
 		body {
-		    font-family:-apple-system, BlinkMacSystemFont, "Helvetica Neue", "Segoe UI","Noto Sans Japanese","ヒラギノ角ゴ ProN W3", Meiryo, sans-serif;
+		    font-family:"Helvetica Neue", Meiryo,;
 				width:600px;
 		}
 		
