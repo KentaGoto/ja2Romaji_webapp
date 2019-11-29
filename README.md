@@ -6,7 +6,7 @@ Romaji conversion tool
 > Run.bat
 ```
 
-Access the following from a browser.\n
+Access the following from a browser.</br>
 http://localhost:3006/
 
 ## REQUIREMENTS
