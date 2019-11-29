@@ -1,2 +1,7 @@
-# ja2Romaji_webapp" 
+# ja2Romaji_webapp 
+Romaji conversion tool
 
+## USAGE
+```
+> 
+```
