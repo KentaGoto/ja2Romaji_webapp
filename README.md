@@ -1,6 +1,8 @@
 # ja2Romaji_webapp 
-Romaji conversion tool
 
+## Description  
+Converts Japanese to Romaji. Japanese text pasted by copy and paste will be converted into romaji.    
+  
 ## Usage
 ```
 > Run.bat
