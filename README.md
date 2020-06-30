@@ -18,5 +18,5 @@ http://localhost:3006/
 
 ## Requirements
 - Windows
-- Perl (5.26 or avobe)
-- Python (3.6.2 or avobe)
+- Perl (5.26 or above)
+- Python (3.6.2 or above)
