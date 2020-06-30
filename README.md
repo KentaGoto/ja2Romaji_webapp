@@ -7,7 +7,7 @@ If you're Japanese, you'll understand, but the kanji passages cannot be accurate
   
 ## Usage
 ```
-> Run.bat
+$ Run.bat
 ```
 
 Access the following from a browser.</br>
