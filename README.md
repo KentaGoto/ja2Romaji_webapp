@@ -2,6 +2,8 @@
 
 ## Description  
 Converts Japanese to Romaji. Japanese text pasted by copy and paste will be converted into romaji.    
+**Note:**  
+If you're Japanese, you'll understand, but the kanji passages cannot be accurately converted into roman characters. Especially, proper nouns such as people's names cannot be converted correctly.  
   
 ## Usage
 ```
