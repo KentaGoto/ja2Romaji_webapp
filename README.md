@@ -20,3 +20,6 @@ http://localhost:3006/
 - Windows
 - Perl5
 - Python3
+
+## License
+MIT
