@@ -23,3 +23,6 @@ http://localhost:3006/
 
 ## License
 MIT
+
+## Author  
+Kenta Goto
