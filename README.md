@@ -1,15 +1,28 @@
 # ja2Romaji_webapp 
-Romaji conversion tool
 
-## USAGE
+## Description  
+Converts Japanese to Romaji. Japanese text pasted by copy and paste will be converted into Romaji.    
+**Note:**  
+If you're Japanese, you'll understand, but the Kanji passages cannot be accurately converted into Romaji. Especially, proper nouns such as people's names cannot be converted correctly.  
+  
+## Usage
 ```
-> Run.bat
+$ Run.bat
 ```
 
 Access the following from a browser.</br>
 http://localhost:3006/
 
-## REQUIREMENTS
+## Screen image  
+![image](https://user-images.githubusercontent.com/10069642/83610184-100cdd00-a5ba-11ea-898a-82aaba8fc1d8.png)
+
+## Requirements
 - Windows
-- Perl (5.26 or avobe)
-- Python (3.6.2 or avobe)
+- Perl5
+- Python3
+
+## License
+MIT
+
+## Author  
+Kenta Goto
