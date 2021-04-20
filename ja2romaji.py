@@ -9,7 +9,7 @@ import subprocess
 
 
 def to_hiragana(line, kakasi, s_base, fw):
-    # 漢字とカタカナをひらがなにするモード
+    # Mode to convert kanji and katakana into hiragana.
     kakasi.setMode("K", "H")
     kakasi.setMode("J", "H")
 
